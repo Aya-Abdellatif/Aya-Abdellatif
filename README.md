@@ -1,11 +1,10 @@
 # Hi, I'm Aya Abdellatif 👋
 
-I'm a Computer Science student with a strong passion for machine learning, software development, and cloud technologies. I enjoy building projects that solve real-world problems and learning new skills along the way.
-
 ### 👨‍💻 About Me:
-- 🎓 I’m currently pursuing a degree in Computer Science.
+- 🎓 As a computer science student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🔭 I’m working on a machine learning model testing platform and various web applications.
 - 🌱 I’m learning advanced machine learning techniques and cloud deployment (GCP).
+- 💬 Ask me about: Python, web development, machine learning, and cloud technologies.
 
 ### 📫 How to reach me:
 - Email: [ayaabdllatif112@gmail.com](mailto:ayaabdllatif112@gmail.com)
