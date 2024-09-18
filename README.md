@@ -1,6 +1,6 @@
 # Hi, I'm Aya Abdellatif 👋
 
-### 👨‍💻 About Me:
+### 👩‍💻 About Me:
 - 🎓 As a computer science student, I'm constantly learning and exploring new technologies to improve my skills.
 - 🔭 I’m working on a machine learning model testing platform and various web applications.
 - 🌱 I’m learning advanced machine learning techniques and cloud deployment (GCP).
