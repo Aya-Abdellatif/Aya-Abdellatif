@@ -14,7 +14,7 @@
 - 📈 Continuous Growth          — Always one project ahead of where I was
 
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Stats
 <p align="center">
   <a href="https://github.com/Aya-Abdellatif">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aya-Abdellatif&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Aya-Abdellatif's GitHub Stats" />
