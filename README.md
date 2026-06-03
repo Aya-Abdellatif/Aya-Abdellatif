@@ -98,6 +98,12 @@
   <a href="mailto:aya.abdellatif.mohamad@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>
+  <a href="https://leetcode.com/aya_abdellatif/">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/leetcode/leetcode-original.svg" alt="LeetCode" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/aya_abdellatif">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codeforces.svg" alt="Codeforces" width="40" style="filter: invert(1);" />
+  </a>
 </p>
 
 <picture>
